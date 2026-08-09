@@ -1,0 +1,19 @@
+MMFakeBench attribution
+=======================
+
+The shared prompt text in src/litevlm_fakenews/prompt.py, the compatible
+annotation schema, and the response-normalization behavior were adapted from:
+
+  Xuannan Liu, Zekun Li, Peipei Li, Huaibo Huang, Shuhan Xia, Xing Cui,
+  Linzhi Huang, Weihong Deng, and Zhaofeng He. "MMFakeBench: A Mixed-Source
+  Multimodal Misinformation Detection Benchmark for LVLMs." ICLR 2025.
+  https://github.com/liuxuannan/MMFakeBench
+
+The upstream work is licensed under the Creative Commons Attribution 4.0
+International License: https://creativecommons.org/licenses/by/4.0/
+
+Modifications in this repository include package-based organization, a unified
+CLI and adapter interface, safe path handling, explicit invalid-output counts,
+fixed-class binary reporting, synchronized timing, provenance capture, tests,
+and documentation. The adapted prompt/protocol material remains available
+under CC BY 4.0. Original software written for this release is MIT licensed.

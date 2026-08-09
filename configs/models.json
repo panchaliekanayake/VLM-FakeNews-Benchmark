@@ -1,0 +1,39 @@
+{
+  "llava-v1.6-vicuna-7b": {
+    "checkpoint": "liuhaotian/llava-v1.6-vicuna-7b",
+    "revision": "deae57a8c0ccb0da4c2661cc1891cc9d06503d11",
+    "external_repository": "https://github.com/haotian-liu/LLaVA",
+    "release_reference_revision": "c121f0432da27facab705978f83c4ada465e46fd"
+  },
+  "qwen-vl-qwen-7b": {
+    "checkpoint": "Qwen/Qwen-VL",
+    "revision": "0547ed36a86561e2e42fecec8fd0c4f6953e33c4",
+    "security_note": "This legacy model requires trust_remote_code=True. Review the pinned revision before execution.",
+    "external_repository": "https://github.com/QwenLM/Qwen-VL",
+    "release_reference_revision": "aa00ed04091eea5fcdd32985e7915f1c53e7d599"
+  },
+  "otter-image-mpt-7b": {
+    "checkpoint": "luodian/OTTER-Image-MPT7B",
+    "revision": "af423fbd0fb44263e25227e3df13771aa3f300bc",
+    "external_repository": "https://github.com/Luodian/Otter",
+    "release_reference_revision": "1e7eb9a6fb12ef410082e796c463b99495637b85"
+  },
+  "minigpt4-vicuna-7b": {
+    "checkpoint": "configured by the official MiniGPT-4 evaluation YAML",
+    "revision": null,
+    "external_repository": "https://github.com/Vision-CAIR/MiniGPT-4",
+    "release_reference_revision": "d94738a7626ec43eba6c2cddf3cd2043f1a9689a"
+  },
+  "blip2-flan-t5-xl": {
+    "checkpoint": "Salesforce/blip2-flan-t5-xl",
+    "revision": "0eb0d3b46c14c1f8c7680bca2693baafdb90bb28",
+    "external_repository": "https://github.com/salesforce/LAVIS",
+    "release_reference_revision": "0ef3a2c3603596f88ec5d72bbeabcee4badf0cc7"
+  },
+  "instructblip-vicuna-7b": {
+    "checkpoint": "managed by LAVIS: blip2_vicuna_instruct/vicuna7b",
+    "revision": null,
+    "external_repository": "https://github.com/salesforce/LAVIS",
+    "release_reference_revision": "0ef3a2c3603596f88ec5d72bbeabcee4badf0cc7"
+  }
+}

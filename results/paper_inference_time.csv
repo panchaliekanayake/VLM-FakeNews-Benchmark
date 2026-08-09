@@ -1,0 +1,7 @@
+model,milliseconds_per_sample,timed_samples
+BLIP-2 Flan-T5-XL,592,100
+Qwen-VL with Qwen-7B,980,100
+LLaVA-v1.6-Vicuna-7B,1142,100
+MiniGPT-4 with Vicuna-7B,4719,100
+Otter-Image-MPT-7B,8449,100
+InstructBLIP-Vicuna-7B,11982,100
