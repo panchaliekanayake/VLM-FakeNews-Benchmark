@@ -1,4 +1,5 @@
-# LiteVLM-FakeNews Benchmark
+# Lightweight
+VLM-FakeNews Benchmark
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10–3.11](https://img.shields.io/badge/Python-3.10%E2%80%933.11-blue.svg)](pyproject.toml)
