@@ -15,7 +15,7 @@ to a valid label and were handled using the predefined fallback rule.
 | LLaVA-v1.6-Vicuna-7B | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% |
 | MiniGPT-4 with Vicuna-7B | 11.02% | 11.30% | 11.06% | 24.39% | 10.17% |
 | OTTER-Image-MPT-7B | 10.43% | 14.04% | 16.84% | 24.71% | 16.93% |
-| Qwen-VL with Qwen-7B | 0.02% | 0.01% | 0.01% | 0.00% | 0.00% |
+| Qwen-VL with Qwen-7B | 0.00% | 0.00% | 0.00% | 0.00% | 0.00% |
 
 Fallback usage varies across models and datasets.
 
